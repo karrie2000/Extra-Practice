@@ -1,0 +1,31 @@
+.d-flex{
+    display: inline;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav{
+    text-align: start;
+    background-color:black;
+    color: white;
+    padding: 5px;
+    margin: 0;
+}
+div h1 span{
+    color:aqua;
+}
+h2{
+    text-align: center;
+    background-color: #663399;
+    color: white;
+    padding: 10px;
+    margin: 8px;
+}
+div h3{
+    text-align: end;
+    background-color: #9fc5f8;
+    color: #663399;
+    padding: 10px;
+    margin: 8px;
+    text-decoration:underline;
+}
